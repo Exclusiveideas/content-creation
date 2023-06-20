@@ -26,6 +26,7 @@ body {
 .topContainer>h2 {
     font-size: 3rem;
     background: -webkit-linear-gradient(#966BEB, #4B40C9);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
