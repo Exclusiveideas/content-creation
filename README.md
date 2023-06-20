@@ -21,7 +21,8 @@ This repository contains the following branches, each representing a different p
 - `branch-3`: Description of branch 3.
 - ... -->
 - `create-react-with-webpack` : This branch shows how to create a functional react app from scratch using webpack.
-- `react-drag-n-drop` : This branch shows how to create a drag-and-drop component with react. URL: [App](https://react-drag-n-drop-70a2e.web.app/)
+- `react-drag-n-drop` : This branch shows how to create a drag-and-drop component with react. 
+    URL: [App](https://react-drag-n-drop-70a2e.web.app/)
 
 ## Contributing 🤝
 
